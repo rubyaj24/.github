@@ -1,3 +1,4 @@
+### About Us
 We are a community of tinkerers, makers, policy geeks & students and are working towards mapping and empowering people who share a passion to innovate.
 <table>
 <tr>
