@@ -11,7 +11,7 @@ The world is changing, and we want India to be ready. We're here to make sure th
 Because we believe that digital skills are tools of empowerment. 
 </td>
 <td>
-<img src="https://tinkerhub.org/TinkerHub%20Foundation%2096f2f937d4084eafbee595b40e209f3f/IMG_5038.jpg">
+<img src="https://user-images.githubusercontent.com/8397274/205433723-755ebb27-ad20-4cb2-af9f-1d43ed32a696.jpg">
 </td>
 </tr>
 </table>
